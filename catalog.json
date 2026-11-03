@@ -49,13 +49,13 @@
       "notes": "# Gerenciador de Arquivos — pacote 1.0.3\n\nAtualiza o aplicativo para a versão interna 0.8.2.\n\n- Permite adicionar pastas aos favoritos pelo botão +, pelo menu de contexto ou pela estrela da pasta aberta.\n- Permite remover qualquer favorito, incluindo CS, pasta pessoal e atalhos do Windows, sem apagar a pasta nem alterar a configuração da CS.\n- Salva a lista de favoritos e os atalhos padrão ocultados entre aberturas e sincroniza as alterações entre janelas.\n- Permite adicionar novamente atalhos removidos, evitando pastas duplicadas.\n\nFeche o Gerenciador de Arquivos antes de atualizar pelo launcher. O perfil e as configurações existentes permanecem compatíveis.\n\nA verificação usa os testes automatizados do projeto e inspeção do pacote, sem abrir a interface real ou acessar arquivos pessoais, servidores e área de transferência.\n"
     },
     "launcher": {
-      "version": "1.1.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.1.0/launcher-1.1.0-windows-x64.zip",
-      "sha256": "986f79534f84435e72eaef792f1fe13a447b5d643aa43f99eb60527342c28cd0",
-      "size": 48440149,
+      "version": "1.1.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.1.1/launcher-1.1.1-windows-x64.zip",
+      "sha256": "7867467c54bc808cfddc0e14f98c475efd78c8a0398ace2556babd1bce6192c6",
+      "size": 48444038,
       "entrypoint": "RKS-Launcher.exe",
       "name": "RKS Launcher",
-      "notes": "Interface reorganizada com modos Grade/Tabela, filtros horizontais, ordenação, novidades e configurações. Busca automática por atualizações do launcher e dos aplicativos; nova ação Atualizar e reiniciar."
+      "notes": "Avisos nativos do Windows com os aplicativos que têm novas versões. Clique no aviso para abrir as atualizações. Verificação automática com intervalo fixo, sem ajuste nas configurações. O botão Verificar atualizações continua disponível. O mesmo aviso não se repete para uma versão já notificada."
     }
   }
 }
