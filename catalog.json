@@ -40,13 +40,13 @@
       "notes": "# Plotador de Pastas 1.0.1\n\n- Melhora a compatibilidade de arquivos PC5/PMP textuais em UTF-8, CP1252 e UTF-16 com BOM, preservando a codificação.\n- Preserva comentários e folhas existentes e permite criar o contador ausente durante a inclusão de formatos.\n- Prepara PMP vazio com backup; formatos não reconhecidos continuam preservados e bloqueados.\n- Mostra o caminho do PMP e o motivo da falha nos detalhes técnicos.\n\nAntes de atualizar, feche o Plotador. Para refazer a preparação do perfil ZWCAD, feche também o CAD, abra a versão nova do Plotador e selecione a versão desejada.\n\nOs 104 testes automatizados passaram. A verificação usa arquivos temporários e CAD simulado; a preparação real no perfil ZWCAD 2020 do escritório ainda precisa ser confirmada.\n"
     },
     "gerenciador-de-arquivos-rks": {
-      "version": "1.0.2",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.2/gerenciador-de-arquivos-rks-1.0.2-windows-x64.zip",
-      "sha256": "03c9e1f313d6b86e73f89f57c1398ce67097438fd7d759baf9686bdd0ffe07ce",
-      "size": 158882897,
+      "version": "1.0.3",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.3/gerenciador-de-arquivos-rks-1.0.3-windows-x64.zip",
+      "sha256": "187fffdaaa6e6a660f00f297ee718a4ee81fe82a086316cb66ef4df1dbce6a5f",
+      "size": 158883667,
       "entrypoint": "Gerenciador de Arquivos RKS.exe",
       "name": "Gerenciador de Arquivos",
-      "notes": "# Gerenciador de Arquivos — pacote 1.0.2\n\nAtualiza o aplicativo para a versão interna 0.8.1.\n\n- Permite ajustar as larguras de Nome, Modificação, Tipo e Tamanho na visualização em lista e nos resultados de busca, com as medidas salvas por pasta.\n- Adiciona ajuste ao conteúdo por duplo clique ou Enter e ajuste de largura pelas setas do teclado.\n- Corrige a seleção de trechos do nome com o mouse durante a renomeação, restaurando o arraste do arquivo ao concluir ou cancelar.\n- Preserva o arraste de texto fora das linhas de arquivo.\n\nFeche o Gerenciador de Arquivos antes de atualizar pelo launcher. O perfil e as configurações existentes permanecem compatíveis.\n\nA verificação usa os testes automatizados do projeto e inspeção do pacote, sem abrir a interface real ou acessar arquivos pessoais, servidores e área de transferência.\n"
+      "notes": "# Gerenciador de Arquivos — pacote 1.0.3\n\nAtualiza o aplicativo para a versão interna 0.8.2.\n\n- Permite adicionar pastas aos favoritos pelo botão +, pelo menu de contexto ou pela estrela da pasta aberta.\n- Permite remover qualquer favorito, incluindo CS, pasta pessoal e atalhos do Windows, sem apagar a pasta nem alterar a configuração da CS.\n- Salva a lista de favoritos e os atalhos padrão ocultados entre aberturas e sincroniza as alterações entre janelas.\n- Permite adicionar novamente atalhos removidos, evitando pastas duplicadas.\n\nFeche o Gerenciador de Arquivos antes de atualizar pelo launcher. O perfil e as configurações existentes permanecem compatíveis.\n\nA verificação usa os testes automatizados do projeto e inspeção do pacote, sem abrir a interface real ou acessar arquivos pessoais, servidores e área de transferência.\n"
     },
     "launcher": {
       "version": "1.1.0",
