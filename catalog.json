@@ -49,13 +49,13 @@
       "notes": "Primeira distribuição pela suíte RKS."
     },
     "launcher": {
-      "version": "1.0.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/launcher-1.0.0-windows-x64.zip",
-      "sha256": "9a367c36f2dcf600058a43245815f49a78240ea69a8362f2615273b72a22cbd7",
-      "size": 48294499,
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.1/launcher-1.0.1-windows-x64.zip",
+      "sha256": "d17ef3e749c8d45c9fe0dffa2709481754c236207621116bdbe34f09ca20d390",
+      "size": 48392609,
       "entrypoint": "RKS-Launcher.exe",
       "name": "RKS Launcher",
-      "notes": "Primeira distribuição pela suíte RKS."
+      "notes": "Validação HTTPS nativa do Windows e diagnóstico de certificados em redes corporativas."
     }
   }
 }
