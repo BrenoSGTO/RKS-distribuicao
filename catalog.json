@@ -54,14 +54,14 @@
       "published_at": "2026-11-03T17:27:32Z"
     },
     "launcher": {
-      "version": "1.1.3",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.1.3/launcher-1.1.3-windows-x64.zip",
-      "sha256": "eb230470a52c1eb5df9e12a05908ab82e5c578f350b22f381885874c82a58efc",
-      "size": 48512272,
+      "version": "1.2.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.2.0/launcher-1.2.0-windows-x64.zip",
+      "sha256": "c37427a3810fee5236d4f9aeaeb37391f6ba31f97b467f31720afdb0e1521185",
+      "size": 48518307,
       "entrypoint": "RKS-Launcher.exe",
       "name": "RKS Launcher",
-      "notes": "Nomes oficiais dos aplicativos nos cartões, na tabela e nas notificações: RKS Modelador Plano, RKS Vigas e Lajes, RKS Vigas Metálicas, Gerenciador de Arquivos RKS e RKS | Plotagem de pastas. As instalações existentes são preservadas.",
-      "published_at": "2026-11-03T18:30:59Z"
+      "notes": "Inclui a Calculadora de pilares na suíte, com instalação e atualizações pelo launcher. Mantém os aplicativos e dados existentes, as notificações e a verificação automática. Catálogo compatível com versões anteriores para permitir a atualização do próprio launcher.",
+      "published_at": "2026-11-03T20:33:14Z"
     }
   }
 }
