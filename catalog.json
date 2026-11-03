@@ -40,13 +40,13 @@
       "notes": "# Plotador de Pastas 1.0.1\n\n- Melhora a compatibilidade de arquivos PC5/PMP textuais em UTF-8, CP1252 e UTF-16 com BOM, preservando a codificação.\n- Preserva comentários e folhas existentes e permite criar o contador ausente durante a inclusão de formatos.\n- Prepara PMP vazio com backup; formatos não reconhecidos continuam preservados e bloqueados.\n- Mostra o caminho do PMP e o motivo da falha nos detalhes técnicos.\n\nAntes de atualizar, feche o Plotador. Para refazer a preparação do perfil ZWCAD, feche também o CAD, abra a versão nova do Plotador e selecione a versão desejada.\n\nOs 104 testes automatizados passaram. A verificação usa arquivos temporários e CAD simulado; a preparação real no perfil ZWCAD 2020 do escritório ainda precisa ser confirmada.\n"
     },
     "gerenciador-de-arquivos-rks": {
-      "version": "1.0.1",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.1/gerenciador-de-arquivos-rks-1.0.1-windows-x64.zip",
-      "sha256": "e42c87d3e4a2dc3d506db35b817704a012dd60ee6b979067d9e62d8a7d0f21c9",
-      "size": 158881005,
+      "version": "1.0.2",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.2/gerenciador-de-arquivos-rks-1.0.2-windows-x64.zip",
+      "sha256": "03c9e1f313d6b86e73f89f57c1398ce67097438fd7d759baf9686bdd0ffe07ce",
+      "size": 158882897,
       "entrypoint": "Gerenciador de Arquivos RKS.exe",
       "name": "Gerenciador de Arquivos",
-      "notes": "# Gerenciador de Arquivos — pacote 1.0.1\n\nAtualiza o aplicativo para a versão interna 0.8.0.\n\n- Confirmação para substituir, ignorar ou cancelar arquivos com o mesmo nome nas transferências, com opção de aplicar a escolha aos demais conflitos.\n- Combinação do conteúdo de pastas existentes, preservando itens extras do destino.\n- Preparação temporária e verificações antes de substituir arquivos; cancelamentos e falhas preservam os itens ainda não transferidos.\n- Registro de substituições nas entregas da Oficina, mantendo o histórico.\n- Reordenação animada das abas.\n\nFeche o Gerenciador de Arquivos antes de atualizar pelo launcher. O perfil existente, incluindo preferências, nome, caminhos e sessões, permanece compatível.\n\nA verificação usa os testes automatizados do projeto e inspeção do pacote. Não inclui abertura da interface real nem alterações em arquivos pessoais, servidores ou área de transferência.\n"
+      "notes": "# Gerenciador de Arquivos — pacote 1.0.2\n\nAtualiza o aplicativo para a versão interna 0.8.1.\n\n- Permite ajustar as larguras de Nome, Modificação, Tipo e Tamanho na visualização em lista e nos resultados de busca, com as medidas salvas por pasta.\n- Adiciona ajuste ao conteúdo por duplo clique ou Enter e ajuste de largura pelas setas do teclado.\n- Corrige a seleção de trechos do nome com o mouse durante a renomeação, restaurando o arraste do arquivo ao concluir ou cancelar.\n- Preserva o arraste de texto fora das linhas de arquivo.\n\nFeche o Gerenciador de Arquivos antes de atualizar pelo launcher. O perfil e as configurações existentes permanecem compatíveis.\n\nA verificação usa os testes automatizados do projeto e inspeção do pacote, sem abrir a interface real ou acessar arquivos pessoais, servidores e área de transferência.\n"
     },
     "launcher": {
       "version": "1.1.0",
