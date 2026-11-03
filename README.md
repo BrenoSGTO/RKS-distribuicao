@@ -1,15 +1,17 @@
 # Aplicativos RKS
 
-Distribuição dos aplicativos da RKS Engenharia de Estruturas.
+Suíte da RKS Engenharia de Estruturas para Windows 64 bits.
 
-Este repositório será usado para disponibilizar instaladores, pacotes de atualização e notas de versão. O código-fonte dos aplicativos é mantido separadamente.
+[**Baixar e instalar RKS Launcher**](https://github.com/BrenoSGTO/RKS-distribuicao/releases/latest/download/RKS-Launcher-Instalar.exe)
 
-## Disponibilidade
+1. Abra o instalador e clique em **Instalar e abrir**.
+2. No launcher, clique em **Instalar suíte** ou escolha um aplicativo.
+3. Depois, use **Abrir** e **Atualizar** no próprio launcher.
 
-Ainda não há instaladores ou versões publicados. Quando a primeira versão estiver disponível, as instruções de instalação serão apresentadas aqui.
+Não é necessário ter conta no GitHub, instalar Python ou informar senha de administrador. A instalação ocorre somente para o seu usuário, sujeita às políticas do computador.
 
-## Uso previsto
+Aplicativos: Ftool melhorado (modelador independente RKS), RKS Vigas e Lajes, RKS Vigas Metálicas, Gerenciador de Arquivos e Plotador de Pastas. O Plotador depende de AutoCAD ou ZWCAD instalado e licenciado; a referência CAD do modelador depende de ZWCAD.
 
-O launcher permitirá instalar, abrir e atualizar os aplicativos no Windows, sem exigir conta no GitHub. A instalação será por usuário, sem elevação administrativa quando os requisitos dos aplicativos e as políticas do computador permitirem.
+O Windows pode exibir avisos de reputação para este instalador ainda sem assinatura digital comercial. Em equipamentos gerenciados, solicite à TI a liberação dos arquivos.
 
-Os arquivos publicados neste repositório são públicos e podem ser baixados por qualquer pessoa.
+O código dos projetos é mantido em repositórios separados. Os pacotes deste repositório são públicos. Consulte as notas e licenças incluídas nos pacotes.
