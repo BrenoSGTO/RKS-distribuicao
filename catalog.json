@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "platform": "windows-x64",
+  "minimum_launcher": "1.0.0",
+  "packages": {
+    "ftool-melhorado": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/ftool-melhorado-1.0.0-windows-x64.zip",
+      "sha256": "c720c244337115b0a0255ca084d7c5b928d7fff39c7b395f1665cb81116b650c",
+      "size": 14629464,
+      "entrypoint": "RKS Modelador Plano.exe",
+      "name": "Ftool melhorado",
+      "notes": "Primeira distribuição pela suíte RKS."
+    },
+    "rks-vigas-lajes": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/rks-vigas-lajes-1.0.0-windows-x64.zip",
+      "sha256": "2d7ece3ad5bc4992372e2a8d2c5ddd78998afb32acc6bd98bbe4324592206505",
+      "size": 22357889,
+      "entrypoint": "RKS-Vigas-Lajes.exe",
+      "name": "RKS Vigas e Lajes",
+      "notes": "Primeira distribuição pela suíte RKS."
+    },
+    "rks-vigas-metalicas": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/rks-vigas-metalicas-1.0.0-windows-x64.zip",
+      "sha256": "b444020381d0d8af0f73efc8e043ae7ec3c483b343bf4423094936d13f0e0b14",
+      "size": 20307222,
+      "entrypoint": "RKS-Vigas-Metalicas.exe",
+      "name": "RKS Vigas Metálicas",
+      "notes": "Primeira distribuição pela suíte RKS."
+    },
+    "plotador-de-pastas": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/plotador-de-pastas-1.0.0-windows-x64.zip",
+      "sha256": "d6beaad5fa05c5093c74e3aa9ca7cf2e0f839f7f3453108c28b9907e625c0b18",
+      "size": 20559524,
+      "entrypoint": "Gerador_PDF_CAD_RKS.exe",
+      "name": "Plotador de Pastas",
+      "notes": "Primeira distribuição pela suíte RKS."
+    },
+    "gerenciador-de-arquivos-rks": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/gerenciador-de-arquivos-rks-1.0.0-windows-x64.zip",
+      "sha256": "4682972162b57551233b9e2e776d224bc3eba0290bb5b31ef94a161a2eed01fb",
+      "size": 158878548,
+      "entrypoint": "Gerenciador de Arquivos RKS.exe",
+      "name": "Gerenciador de Arquivos",
+      "notes": "Primeira distribuição pela suíte RKS."
+    },
+    "launcher": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/launcher-1.0.0-windows-x64.zip",
+      "sha256": "9a367c36f2dcf600058a43245815f49a78240ea69a8362f2615273b72a22cbd7",
+      "size": 48294499,
+      "entrypoint": "RKS-Launcher.exe",
+      "name": "RKS Launcher",
+      "notes": "Primeira distribuição pela suíte RKS."
+    }
+  }
+}
