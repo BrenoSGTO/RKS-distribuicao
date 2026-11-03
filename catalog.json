@@ -31,13 +31,13 @@
       "notes": "Primeira distribuição pela suíte RKS."
     },
     "plotador-de-pastas": {
-      "version": "1.0.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/plotador-de-pastas-1.0.0-windows-x64.zip",
-      "sha256": "d6beaad5fa05c5093c74e3aa9ca7cf2e0f839f7f3453108c28b9907e625c0b18",
-      "size": 20559524,
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/plotador-de-pastas-v1.0.1/plotador-de-pastas-1.0.1-windows-x64.zip",
+      "sha256": "c886623ffa2ea1b55a0417b76fb7217df701539394c5ef2dc4b3353866b7380f",
+      "size": 20562731,
       "entrypoint": "Gerador_PDF_CAD_RKS.exe",
       "name": "Plotador de Pastas",
-      "notes": "Primeira distribuição pela suíte RKS."
+      "notes": "# Plotador de Pastas 1.0.1\n\n- Melhora a compatibilidade de arquivos PC5/PMP textuais em UTF-8, CP1252 e UTF-16 com BOM, preservando a codificação.\n- Preserva comentários e folhas existentes e permite criar o contador ausente durante a inclusão de formatos.\n- Prepara PMP vazio com backup; formatos não reconhecidos continuam preservados e bloqueados.\n- Mostra o caminho do PMP e o motivo da falha nos detalhes técnicos.\n\nAntes de atualizar, feche o Plotador. Para refazer a preparação do perfil ZWCAD, feche também o CAD, abra a versão nova do Plotador e selecione a versão desejada.\n\nOs 104 testes automatizados passaram. A verificação usa arquivos temporários e CAD simulado; a preparação real no perfil ZWCAD 2020 do escritório ainda precisa ser confirmada.\n"
     },
     "gerenciador-de-arquivos-rks": {
       "version": "1.0.0",
