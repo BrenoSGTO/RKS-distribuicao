@@ -4,14 +4,14 @@
   "minimum_launcher": "1.0.0",
   "packages": {
     "ftool-melhorado": {
-      "version": "1.0.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/ftool-melhorado-1.0.0-windows-x64.zip",
-      "sha256": "c720c244337115b0a0255ca084d7c5b928d7fff39c7b395f1665cb81116b650c",
-      "size": 14629464,
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/ftool-melhorado-v1.0.1/ftool-melhorado-1.0.1-windows-x64.zip",
+      "sha256": "05e6d2e9f67231b0470b901f2b269c60b5f20729e6e756a4d5ef637e301b0380",
+      "size": 14632145,
       "entrypoint": "RKS Modelador Plano.exe",
-      "name": "Ftool melhorado",
-      "notes": "Primeira distribuição pela suíte RKS.",
-      "published_at": "2026-11-03T13:36:04Z"
+      "name": "RKS Modelador Plano",
+      "notes": "# RKS Modelador Plano 1.0.1\n\n- Inicia com o desenho vazio, mantendo as unidades salvas; o modelo de demonstração continua disponível no botão Exemplo.\n- Adiciona o preenchimento de materiais de concreto por fck, classe, agregado e módulo Ecs/Eci, com prévia e edição manual dos campos.\n- Reorganiza o painel Propriedades com grupos recolhíveis, cabeçalho e rodapé fixos e botão Aplicar alterações sempre acessível.\n- Mantém durante a sessão a escolha dos grupos abertos e indica os campos de propriedades alterados.\n\nFeche o RKS Modelador Plano antes de atualizar pelo launcher. Projetos e preferências existentes são preservados.\n\nA verificação usa os testes de análise, interação e ponte CAD do projeto, além da instalação temporária do pacote. Não inclui comparação universal com outro solucionador nem acesso a um CAD licenciado.\n",
+      "published_at": "2026-11-03T18:29:02Z"
     },
     "rks-vigas-lajes": {
       "version": "1.0.0",
