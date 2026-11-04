@@ -54,14 +54,14 @@
       "published_at": "2026-11-04T16:29:40Z"
     },
     "launcher": {
-      "version": "1.4.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.4.0/launcher-1.4.0-windows-x64.zip",
-      "sha256": "0c45891b7c4c35b29c619c53fd9665459d276d4f297793cd3bffa9e245bd6f76",
-      "size": 48522396,
+      "version": "1.4.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.4.1/launcher-1.4.1-windows-x64.zip",
+      "sha256": "28f17d72f2340714646b169798d4b320909fbc8dac8dcc9557229cd965aecc13",
+      "size": 48625045,
       "entrypoint": "RKS-Launcher.exe",
       "name": "RKS Launcher",
-      "notes": "Inclui RKS Vigas de alvenaria, com instalação e atualizações pelo launcher, ícone e cor próprios nos temas claro e escuro. Preserva os aplicativos, as configurações e os dados existentes. Mantém catálogos compatíveis para que versões anteriores recebam a atualização do próprio launcher.",
-      "published_at": "2026-11-04T15:05:08Z"
+      "notes": "Aplica os arquivos aprovados no kit de ícones aos cartões e à tabela. O launcher usa o símbolo original da RKS, com dez resoluções no ICO do executável, janela, área de notificação e instalador. Atualiza os atalhos existentes do launcher para um arquivo de ícone estável, preservado entre atualizações. Mantém a assinatura completa no cabeçalho e as preferências de aparência.",
+      "published_at": "2026-11-04T17:20:15Z"
     }
   }
 }
