@@ -64,14 +64,14 @@
       "published_at": "2026-11-04T17:20:15Z"
     },
     "rks-pilares": {
-      "version": "1.0.3",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.3/rks-pilares-1.0.3-windows-x64.zip",
-      "sha256": "fd25894a9ecc594e4b576d2230b12a318cc5cd091210c54421b20d3ccacc0cb5",
-      "size": 158734151,
+      "version": "1.0.4",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.4/rks-pilares-1.0.4-windows-x64.zip",
+      "sha256": "078fcd03d05be6d5cb51b83c82cc4f94e73ef4e9d7616077bbefa70a1eddfa6e",
+      "size": 158750037,
       "entrypoint": "Calculadora de pilares.exe",
       "name": "Calculadora de pilares",
-      "notes": "# Calculadora de pilares 1.0.3\n\nAtualiza o aplicativo para a versão interna 0.3.1, commit `1993cd9`.\n\n- Controle de aparência clara e escura na barra de ferramentas.\n- Preferência persistida entre aberturas, com ajustes de contraste nos componentes da interface.\n\nFeche a Calculadora de pilares antes de atualizar. Os projetos, a integração MCP e o perfil do usuário são preservados.\n",
-      "published_at": "2026-11-04T15:06:52Z"
+      "notes": "# Calculadora de pilares 1.0.4\n\nAtualiza a distribuição para o commit `b055715`.\n\n- Aplica os ícones do kit RKS ao executável e à janela do aplicativo.\n- Inclui os pictogramas e recursos de interface implementados no projeto.\n- Preserva os projetos, os perfis e os identificadores existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e os bytes de cada imagem ICO incorporada ao executável, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-04T17:31:26Z"
     },
     "rks-vigas-alvenaria": {
       "version": "1.0.0",
