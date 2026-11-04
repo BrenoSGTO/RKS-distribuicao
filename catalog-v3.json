@@ -24,14 +24,14 @@
       "published_at": "2026-11-03T13:36:04Z"
     },
     "rks-vigas-metalicas": {
-      "version": "1.0.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/rks-vigas-metalicas-1.0.0-windows-x64.zip",
-      "sha256": "b444020381d0d8af0f73efc8e043ae7ec3c483b343bf4423094936d13f0e0b14",
-      "size": 20307222,
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-metalicas-v1.0.1/rks-vigas-metalicas-1.0.1-windows-x64.zip",
+      "sha256": "74cbf5ecedcc3d6919b3231dca99f932b1414d44eacb018127304091e4f0129e",
+      "size": 20312982,
       "entrypoint": "RKS-Vigas-Metalicas.exe",
       "name": "RKS Vigas Metálicas",
-      "notes": "Primeira distribuição pela suíte RKS.",
-      "published_at": "2026-11-03T13:36:04Z"
+      "notes": "# RKS Vigas Metálicas 1.0.1\n\nAtualiza a distribuição para o commit `28616d1`. A versão interna permanece 1.0.0.\n\n- Alternância entre aparência clara e escura, com preferência salva para as próximas aberturas.\n- Ajustes de contraste na interface, nas configurações e nos desenhos.\n\nFeche o aplicativo e atualize pelo RKS Launcher. O perfil e os projetos existentes são preservados.\n",
+      "published_at": "2026-11-04T15:07:45Z"
     },
     "plotador-de-pastas": {
       "version": "1.0.2",
