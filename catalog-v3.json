@@ -74,14 +74,14 @@
       "published_at": "2026-11-04T17:31:26Z"
     },
     "rks-vigas-alvenaria": {
-      "version": "1.0.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-alvenaria-v1.0.0/rks-vigas-alvenaria-1.0.0-windows-x64.zip",
-      "sha256": "5bec33bbdd1b9817dd762ea529ec3f85d235418c45f780766b35dfba8d32617f",
-      "size": 28281089,
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-alvenaria-v1.0.1/rks-vigas-alvenaria-1.0.1-windows-x64.zip",
+      "sha256": "3b68b8e5dc2d06438fde400e03cf7492e6e28de48564a7002e5f0e64850d8a4c",
+      "size": 28286416,
       "entrypoint": "RKS-Vigas-Alvenaria.exe",
       "name": "RKS Vigas de alvenaria",
-      "notes": "# RKS Vigas de alvenaria 1.0.0\n\nPrimeira distribuição pelo RKS Launcher. Versão interna 1.0.0.\n\n- Dimensionamento e verificação de vigas biapoiadas de alvenaria estrutural.\n- Vistas e cortes da viga, diagramas de esforços e memória de cálculo.\n- Projetos em JSON, importação de planilha e exportação em PDF, HTML, PNG e SVG.\n- Temas claro e escuro com preferência local persistida.\n\nInclui o runtime necessário para execução, sem instalação separada de Python e sem administrador. O motor de cálculo é preservado. Normas e planilhas originais não acompanham o pacote; o alcance e as pendências do modelo permanecem indicados no aplicativo.\n\nAtualize o RKS Launcher para 1.4.0 ou superior para instalar este aplicativo.\n",
-      "published_at": "2026-11-04T15:02:27Z"
+      "notes": "# RKS Vigas de alvenaria 1.0.1\n\nAtualiza a distribuição para o commit `9b0a906`.\n\n- Aplica os ícones do kit RKS ao executável e à janela do aplicativo.\n- Inclui os pictogramas e recursos de interface implementados no projeto.\n- Preserva os projetos, os perfis e os identificadores existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e os bytes de cada imagem ICO incorporada ao executável, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-04T17:33:29Z"
     }
   }
 }
