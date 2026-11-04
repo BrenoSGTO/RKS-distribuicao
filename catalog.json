@@ -44,14 +44,14 @@
       "published_at": "2026-11-03T20:41:30Z"
     },
     "gerenciador-de-arquivos-rks": {
-      "version": "1.0.4",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.4/gerenciador-de-arquivos-rks-1.0.4-windows-x64.zip",
-      "sha256": "d505525b51d94d2142facebab7607a02b66d93af5a7cc1a7e4cc1dae8148e4a9",
-      "size": 158883721,
+      "version": "1.0.5",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.5/gerenciador-de-arquivos-rks-1.0.5-windows-x64.zip",
+      "sha256": "60ba4f9d3f5187495ba5903a328ffbd8b84800cc1d19e6754e301ad374d0cb9b",
+      "size": 158883733,
       "entrypoint": "Gerenciador de Arquivos RKS.exe",
       "name": "Gerenciador de Arquivos RKS",
-      "notes": "# Gerenciador de Arquivos RKS 1.0.4\n\nAtualiza a distribuição para o código do commit `e2d277b`. A versão interna do aplicativo permanece 0.8.2.\n\n- Corrige a interrupção da renomeação ao digitar espaços no nome de arquivos e pastas.\n- Ajusta o tratamento da tecla Espaço durante a edição, preservando o atalho de visualização rápida fora dos campos de texto.\n\nFeche o Gerenciador de Arquivos RKS e use **Verificar atualizações → Atualizar** no launcher. As configurações, os favoritos e os dados do usuário são preservados.\n\nA publicação confere a geração, a integridade e a instalação do pacote. Não repete os testes completos realizados no desenvolvimento e não abre a interface real do gerenciador.\n",
-      "published_at": "2026-11-04T13:46:41Z"
+      "notes": "# Gerenciador de Arquivos RKS 1.0.5\n\nAtualiza a distribuição para o commit `6a720ab`. A versão interna do aplicativo permanece 0.8.2.\n\n- Remove os botões Fechar duplicados nos avisos.\n- Mantém uma única ação de fechamento nos diálogos, com encerramento correto pelo botão ou pela tecla Escape.\n\nFeche o Gerenciador de Arquivos RKS e use **Verificar atualizações → Atualizar** no launcher. As configurações, os favoritos e os dados do usuário são preservados.\n\nA publicação confere a geração, a integridade e a instalação do pacote, sem repetir os testes completos do desenvolvimento ou abrir a interface real do aplicativo.\n",
+      "published_at": "2026-11-04T16:29:40Z"
     },
     "launcher": {
       "version": "1.4.0",
