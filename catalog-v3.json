@@ -34,14 +34,14 @@
       "published_at": "2026-11-04T17:32:40Z"
     },
     "plotador-de-pastas": {
-      "version": "1.0.2",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/plotador-de-pastas-v1.0.2/plotador-de-pastas-1.0.2-windows-x64.zip",
-      "sha256": "8af8b21888151de79bcad60a5ea535b1a841e2ce7578a0fe3b81e68260367ffa",
-      "size": 20562188,
+      "version": "1.0.3",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/plotador-de-pastas-v1.0.3/plotador-de-pastas-1.0.3-windows-x64.zip",
+      "sha256": "e668496203abd9292c904bc33b76dc2cc77ac90c45f4104c3b5919ceca4f5d57",
+      "size": 20522501,
       "entrypoint": "Gerador_PDF_CAD_RKS.exe",
       "name": "RKS | Plotagem de pastas",
-      "notes": "# RKS | Plotagem de pastas — pacote 1.0.2\n\nAtualiza o aplicativo para a versão interna 2026.11.03.2.\n\n- A preferência opcional autoopenfile deixa de bloquear a preparação quando está ausente, ambígua ou não pode ser alterada com segurança. O arquivo é preservado e o aplicativo apresenta um aviso, desde que os recursos necessários para plotar estejam válidos.\n- Mantém a validação dos drivers, folhas, PMP e CTBs necessários e a separação dos fluxos AutoCAD e ZWCAD.\n- Os detalhes técnicos passam a identificar a versão do programa, o CAD selecionado, o tipo, o driver e o caminho do perfil.\n- Os avisos de preparação são apresentados separadamente da confirmação de recursos prontos.\n\nFeche o RKS | Plotagem de pastas antes de atualizar. Se for necessário preparar recursos do CAD novamente, feche o CAD e siga a orientação apresentada pelo aplicativo. Os perfis e arquivos existentes são preservados.\n\nA verificação usa testes automatizados com CAD simulado, arquivos temporários e inspeção do pacote. Não inclui plotagem em uma instalação real de CAD licenciado.\n",
-      "published_at": "2026-11-03T20:41:30Z"
+      "notes": "# RKS | Plotagem de pastas 1.0.3\n\nAtualiza a distribuição para o commit `ee1a910`.\n\n- Aplica o ícone RKS fornecido ao executável e à janela do aplicativo.\n- Inclui modo escuro com preferência persistida e ajustes de contraste na interface.\n- Mantém os projetos e as configurações existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e as imagens ICO incorporadas, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-04T17:35:18Z"
     },
     "gerenciador-de-arquivos-rks": {
       "version": "1.0.6",
