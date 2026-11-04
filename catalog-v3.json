@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "platform": "windows-x64",
+  "minimum_launcher": "1.4.0",
+  "packages": {
+    "ftool-melhorado": {
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/ftool-melhorado-v1.0.1/ftool-melhorado-1.0.1-windows-x64.zip",
+      "sha256": "05e6d2e9f67231b0470b901f2b269c60b5f20729e6e756a4d5ef637e301b0380",
+      "size": 14632145,
+      "entrypoint": "RKS Modelador Plano.exe",
+      "name": "RKS Modelador Plano",
+      "notes": "# RKS Modelador Plano 1.0.1\n\n- Inicia com o desenho vazio, mantendo as unidades salvas; o modelo de demonstração continua disponível no botão Exemplo.\n- Adiciona o preenchimento de materiais de concreto por fck, classe, agregado e módulo Ecs/Eci, com prévia e edição manual dos campos.\n- Reorganiza o painel Propriedades com grupos recolhíveis, cabeçalho e rodapé fixos e botão Aplicar alterações sempre acessível.\n- Mantém durante a sessão a escolha dos grupos abertos e indica os campos de propriedades alterados.\n\nFeche o RKS Modelador Plano antes de atualizar pelo launcher. Projetos e preferências existentes são preservados.\n\nA verificação usa os testes de análise, interação e ponte CAD do projeto, além da instalação temporária do pacote. Não inclui comparação universal com outro solucionador nem acesso a um CAD licenciado.\n",
+      "published_at": "2026-11-03T18:29:02Z"
+    },
+    "rks-vigas-lajes": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/rks-vigas-lajes-1.0.0-windows-x64.zip",
+      "sha256": "2d7ece3ad5bc4992372e2a8d2c5ddd78998afb32acc6bd98bbe4324592206505",
+      "size": 22357889,
+      "entrypoint": "RKS-Vigas-Lajes.exe",
+      "name": "RKS Vigas e Lajes",
+      "notes": "Primeira distribuição pela suíte RKS.",
+      "published_at": "2026-11-03T13:36:04Z"
+    },
+    "rks-vigas-metalicas": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.0.0/rks-vigas-metalicas-1.0.0-windows-x64.zip",
+      "sha256": "b444020381d0d8af0f73efc8e043ae7ec3c483b343bf4423094936d13f0e0b14",
+      "size": 20307222,
+      "entrypoint": "RKS-Vigas-Metalicas.exe",
+      "name": "RKS Vigas Metálicas",
+      "notes": "Primeira distribuição pela suíte RKS.",
+      "published_at": "2026-11-03T13:36:04Z"
+    },
+    "plotador-de-pastas": {
+      "version": "1.0.2",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/plotador-de-pastas-v1.0.2/plotador-de-pastas-1.0.2-windows-x64.zip",
+      "sha256": "8af8b21888151de79bcad60a5ea535b1a841e2ce7578a0fe3b81e68260367ffa",
+      "size": 20562188,
+      "entrypoint": "Gerador_PDF_CAD_RKS.exe",
+      "name": "RKS | Plotagem de pastas",
+      "notes": "# RKS | Plotagem de pastas — pacote 1.0.2\n\nAtualiza o aplicativo para a versão interna 2026.11.03.2.\n\n- A preferência opcional autoopenfile deixa de bloquear a preparação quando está ausente, ambígua ou não pode ser alterada com segurança. O arquivo é preservado e o aplicativo apresenta um aviso, desde que os recursos necessários para plotar estejam válidos.\n- Mantém a validação dos drivers, folhas, PMP e CTBs necessários e a separação dos fluxos AutoCAD e ZWCAD.\n- Os detalhes técnicos passam a identificar a versão do programa, o CAD selecionado, o tipo, o driver e o caminho do perfil.\n- Os avisos de preparação são apresentados separadamente da confirmação de recursos prontos.\n\nFeche o RKS | Plotagem de pastas antes de atualizar. Se for necessário preparar recursos do CAD novamente, feche o CAD e siga a orientação apresentada pelo aplicativo. Os perfis e arquivos existentes são preservados.\n\nA verificação usa testes automatizados com CAD simulado, arquivos temporários e inspeção do pacote. Não inclui plotagem em uma instalação real de CAD licenciado.\n",
+      "published_at": "2026-11-03T20:41:30Z"
+    },
+    "gerenciador-de-arquivos-rks": {
+      "version": "1.0.4",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.4/gerenciador-de-arquivos-rks-1.0.4-windows-x64.zip",
+      "sha256": "d505525b51d94d2142facebab7607a02b66d93af5a7cc1a7e4cc1dae8148e4a9",
+      "size": 158883721,
+      "entrypoint": "Gerenciador de Arquivos RKS.exe",
+      "name": "Gerenciador de Arquivos RKS",
+      "notes": "# Gerenciador de Arquivos RKS 1.0.4\n\nAtualiza a distribuição para o código do commit `e2d277b`. A versão interna do aplicativo permanece 0.8.2.\n\n- Corrige a interrupção da renomeação ao digitar espaços no nome de arquivos e pastas.\n- Ajusta o tratamento da tecla Espaço durante a edição, preservando o atalho de visualização rápida fora dos campos de texto.\n\nFeche o Gerenciador de Arquivos RKS e use **Verificar atualizações → Atualizar** no launcher. As configurações, os favoritos e os dados do usuário são preservados.\n\nA publicação confere a geração, a integridade e a instalação do pacote. Não repete os testes completos realizados no desenvolvimento e não abre a interface real do gerenciador.\n",
+      "published_at": "2026-11-04T13:46:41Z"
+    },
+    "launcher": {
+      "version": "1.3.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.3.0/launcher-1.3.0-windows-x64.zip",
+      "sha256": "8b65d3d2caa81d48d62a18ab8b351acfd745b012c7c7f2d1066ac41d13f0eee3",
+      "size": 48521624,
+      "entrypoint": "RKS-Launcher.exe",
+      "name": "RKS Launcher",
+      "notes": "Interface com estrutura próxima do ArtCraft Launcher: cabeçalho compacto, cartões alinhados, faixas de versão e novidades e ações contextuais. Cada aplicativo tem uma cor própria nos ícones, títulos e botões, nos modos Grade e Tabela. Novo Modo escuro em Configurações; a preferência é salva e aplicada ao reabrir. Mantém a assinatura completa e as fontes RKS, as instalações, os dados e as atualizações automáticas.",
+      "published_at": "2026-11-04T13:45:09Z"
+    },
+    "rks-pilares": {
+      "version": "1.0.2",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.2/rks-pilares-1.0.2-windows-x64.zip",
+      "sha256": "ff1815bb7b7fa8948cd4dd10294aaab9522c4f0de9b41c0c052249f22f011f9c",
+      "size": 158732457,
+      "entrypoint": "Calculadora de pilares.exe",
+      "name": "Calculadora de pilares",
+      "notes": "# Calculadora de pilares 1.0.2\n\nVersão interna do aplicativo: 0.3.0.\n\n- Novos diagramas resistentes e visualização das deformações e tensões da seção.\n- Integração local com IA por MCP, com ativação da conexão pela janela do aplicativo.\n- Melhorias na apresentação dos resultados e na seleção das vistas de análise.\n\nFeche a Calculadora de pilares antes de atualizar pelo launcher. Os projetos e o perfil do usuário são preservados.\n\nA publicação confere a geração, a integridade e a instalação do pacote. Os testes completos do aplicativo permanecem no fluxo de desenvolvimento.\n",
+      "published_at": "2026-11-04T12:23:02Z"
+    },
+    "rks-vigas-alvenaria": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-alvenaria-v1.0.0/rks-vigas-alvenaria-1.0.0-windows-x64.zip",
+      "sha256": "5bec33bbdd1b9817dd762ea529ec3f85d235418c45f780766b35dfba8d32617f",
+      "size": 28281089,
+      "entrypoint": "RKS-Vigas-Alvenaria.exe",
+      "name": "RKS Vigas de alvenaria",
+      "notes": "# RKS Vigas de alvenaria 1.0.0\n\nPrimeira distribuição pelo RKS Launcher. Versão interna 1.0.0.\n\n- Dimensionamento e verificação de vigas biapoiadas de alvenaria estrutural.\n- Vistas e cortes da viga, diagramas de esforços e memória de cálculo.\n- Projetos em JSON, importação de planilha e exportação em PDF, HTML, PNG e SVG.\n- Temas claro e escuro com preferência local persistida.\n\nInclui o runtime necessário para execução, sem instalação separada de Python e sem administrador. O motor de cálculo é preservado. Normas e planilhas originais não acompanham o pacote; o alcance e as pendências do modelo permanecem indicados no aplicativo.\n\nAtualize o RKS Launcher para 1.4.0 ou superior para instalar este aplicativo.\n",
+      "published_at": "2026-11-04T15:02:27Z"
+    }
+  }
+}
