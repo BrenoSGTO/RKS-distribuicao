@@ -64,14 +64,14 @@
       "published_at": "2026-11-04T15:05:08Z"
     },
     "rks-pilares": {
-      "version": "1.0.2",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.2/rks-pilares-1.0.2-windows-x64.zip",
-      "sha256": "ff1815bb7b7fa8948cd4dd10294aaab9522c4f0de9b41c0c052249f22f011f9c",
-      "size": 158732457,
+      "version": "1.0.3",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.3/rks-pilares-1.0.3-windows-x64.zip",
+      "sha256": "fd25894a9ecc594e4b576d2230b12a318cc5cd091210c54421b20d3ccacc0cb5",
+      "size": 158734151,
       "entrypoint": "Calculadora de pilares.exe",
       "name": "Calculadora de pilares",
-      "notes": "# Calculadora de pilares 1.0.2\n\nVersão interna do aplicativo: 0.3.0.\n\n- Novos diagramas resistentes e visualização das deformações e tensões da seção.\n- Integração local com IA por MCP, com ativação da conexão pela janela do aplicativo.\n- Melhorias na apresentação dos resultados e na seleção das vistas de análise.\n\nFeche a Calculadora de pilares antes de atualizar pelo launcher. Os projetos e o perfil do usuário são preservados.\n\nA publicação confere a geração, a integridade e a instalação do pacote. Os testes completos do aplicativo permanecem no fluxo de desenvolvimento.\n",
-      "published_at": "2026-11-04T12:23:02Z"
+      "notes": "# Calculadora de pilares 1.0.3\n\nAtualiza o aplicativo para a versão interna 0.3.1, commit `1993cd9`.\n\n- Controle de aparência clara e escura na barra de ferramentas.\n- Preferência persistida entre aberturas, com ajustes de contraste nos componentes da interface.\n\nFeche a Calculadora de pilares antes de atualizar. Os projetos, a integração MCP e o perfil do usuário são preservados.\n",
+      "published_at": "2026-11-04T15:06:52Z"
     },
     "rks-vigas-alvenaria": {
       "version": "1.0.0",
