@@ -44,14 +44,14 @@
       "published_at": "2026-11-03T20:41:30Z"
     },
     "gerenciador-de-arquivos-rks": {
-      "version": "1.0.3",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.3/gerenciador-de-arquivos-rks-1.0.3-windows-x64.zip",
-      "sha256": "187fffdaaa6e6a660f00f297ee718a4ee81fe82a086316cb66ef4df1dbce6a5f",
-      "size": 158883667,
+      "version": "1.0.4",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.4/gerenciador-de-arquivos-rks-1.0.4-windows-x64.zip",
+      "sha256": "d505525b51d94d2142facebab7607a02b66d93af5a7cc1a7e4cc1dae8148e4a9",
+      "size": 158883721,
       "entrypoint": "Gerenciador de Arquivos RKS.exe",
       "name": "Gerenciador de Arquivos RKS",
-      "notes": "# Gerenciador de Arquivos — pacote 1.0.3\n\nAtualiza o aplicativo para a versão interna 0.8.2.\n\n- Permite adicionar pastas aos favoritos pelo botão +, pelo menu de contexto ou pela estrela da pasta aberta.\n- Permite remover qualquer favorito, incluindo CS, pasta pessoal e atalhos do Windows, sem apagar a pasta nem alterar a configuração da CS.\n- Salva a lista de favoritos e os atalhos padrão ocultados entre aberturas e sincroniza as alterações entre janelas.\n- Permite adicionar novamente atalhos removidos, evitando pastas duplicadas.\n\nFeche o Gerenciador de Arquivos antes de atualizar pelo launcher. O perfil e as configurações existentes permanecem compatíveis.\n\nA verificação usa os testes automatizados do projeto e inspeção do pacote, sem abrir a interface real ou acessar arquivos pessoais, servidores e área de transferência.\n",
-      "published_at": "2026-11-03T17:27:32Z"
+      "notes": "# Gerenciador de Arquivos RKS 1.0.4\n\nAtualiza a distribuição para o código do commit `e2d277b`. A versão interna do aplicativo permanece 0.8.2.\n\n- Corrige a interrupção da renomeação ao digitar espaços no nome de arquivos e pastas.\n- Ajusta o tratamento da tecla Espaço durante a edição, preservando o atalho de visualização rápida fora dos campos de texto.\n\nFeche o Gerenciador de Arquivos RKS e use **Verificar atualizações → Atualizar** no launcher. As configurações, os favoritos e os dados do usuário são preservados.\n\nA publicação confere a geração, a integridade e a instalação do pacote. Não repete os testes completos realizados no desenvolvimento e não abre a interface real do gerenciador.\n",
+      "published_at": "2026-11-04T13:46:41Z"
     },
     "launcher": {
       "version": "1.3.0",
