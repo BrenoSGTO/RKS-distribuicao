@@ -4,14 +4,14 @@
   "minimum_launcher": "1.0.0",
   "packages": {
     "ftool-melhorado": {
-      "version": "1.0.3",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/ftool-melhorado-v1.0.3/ftool-melhorado-1.0.3-windows-x64.zip",
-      "sha256": "009a9e328bad7aa826c073a23cc8011459221c3e63e12fe48afbb8c4ae143fe0",
-      "size": 14639281,
+      "version": "1.0.4",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/ftool-melhorado-v1.0.4/ftool-melhorado-1.0.4-windows-x64.zip",
+      "sha256": "5a4c6da3ece5e24dd40084cc697a6fa323301045ad3f19e820c8bcdab0f2e540",
+      "size": 14670626,
       "entrypoint": "RKS Modelador Plano.exe",
       "name": "RKS Modelador Plano",
-      "notes": "# RKS Modelador Plano 1.0.3\n\nAtualiza a distribuição para o commit `00556a7`.\n\n- Consulta de esforços e deslocamentos pela posição x informada na barra.\n- Exportação CSV de uma barra com passo configurável e inclusão das duas extremidades.\n- Comando Inverter i/j e exibição da orientação das barras.\n- Acesso direto à entrada por coordenadas e reorganização dos comandos superiores.\n\nFeche o RKS Modelador Plano e use **Verificar atualizações → Atualizar** no launcher. Os projetos e as preferências existentes são preservados.\n\nA publicação confere a compilação, a integridade e a instalação do pacote. Arquivos de investigação, o programa original usado como referência e dados pessoais não integram a distribuição.\n",
-      "published_at": "2026-11-04T16:41:36Z"
+      "notes": "# RKS Modelador Plano 1.0.4\n\nAtualiza a distribuição para o commit `3e1a63c`.\n\n- Aplica os ícones do kit RKS ao executável e à janela do aplicativo.\n- Inclui os pictogramas e recursos de interface implementados no projeto.\n- Preserva os projetos, os perfis e os identificadores existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e os bytes de cada imagem ICO incorporada ao executável, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-04T17:32:05Z"
     },
     "rks-vigas-lajes": {
       "version": "1.0.0",
