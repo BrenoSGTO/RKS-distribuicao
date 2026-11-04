@@ -64,14 +64,14 @@
       "published_at": "2026-11-03T20:33:14Z"
     },
     "rks-pilares": {
-      "version": "1.0.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.0/rks-pilares-1.0.0-windows-x64.zip",
-      "sha256": "3ae27273ddc89f63de4850379b08023f100565b5311ee2923a97f011dc643895",
-      "size": 158700426,
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.1/rks-pilares-1.0.1-windows-x64.zip",
+      "sha256": "94ace8013462b7a8d3c34dfddc699b45aab4454247f5365576df6ee0a4f4f3b6",
+      "size": 158713943,
       "entrypoint": "Calculadora de pilares.exe",
       "name": "Calculadora de pilares",
-      "notes": "# Calculadora de pilares — pacote 1.0.0\n\nPrimeira distribuição pelo RKS Launcher. Versão interna do aplicativo: 0.2.0.\n\n- Aplicativo desktop com menus, projetos JSON e importação/exportação de esforços em CSV.\n- Verificação de seções e busca de armadura dentro do domínio documentado no aplicativo.\n- Combinações de ações, progresso e cancelamento de cálculos e exportação de memória em PDF.\n- Runtime Electron incluído: não requer instalação separada de Node.js ou Java.\n- Projetos são salvos no destino escolhido pelo usuário; o perfil fica fora dos arquivos substituídos nas atualizações.\n\nAs auditorias e limitações acompanham o aplicativo. A versão não declara conformidade integral com a norma e não implementa todos os métodos, verificações ou detalhamentos. O programa original usado como referência e os arquivos de normas não integram o pacote.\n\nAtualize o próprio RKS Launcher para 1.2.0 ou superior para visualizar e instalar a Calculadora de pilares. Os catálogos antigos continuam oferecendo a atualização do launcher.\n",
-      "published_at": "2026-11-03T20:31:07Z"
+      "notes": "# Calculadora de pilares — pacote 1.0.1\n\nAtualiza o aplicativo para a versão interna 0.2.1.\n\n- Apresenta e edita esforços em kgf e kgf·m, preservando os valores físicos dos projetos JSON em kN e kN·m e identificando as unidades nos relatórios.\n- Identifica as unidades nos CSVs exportados; cabeçalhos identificados são usados na importação. CSVs antigos sem indicação exigem selecionar a unidade de origem.\n- Atualiza ícones e desenhos estruturais vetoriais, incluindo apoios, balanços, seções e gráficos.\n- Mantém a abertura dos projetos anteriores e o perfil do usuário fora da pasta de programas.\n\nFeche a Calculadora de pilares antes de atualizar pelo launcher. A versão inclui o runtime Electron, sem necessidade de instalar Node.js ou Java.\n\nAs auditorias e limitações de cálculo continuam disponíveis no aplicativo. A validação da distribuição usa os testes do projeto e testes desktop com projetos temporários, incluindo a versão empacotada.\n",
+      "published_at": "2026-11-04T01:41:36Z"
     }
   }
 }
