@@ -54,14 +54,14 @@
       "published_at": "2026-11-03T17:27:32Z"
     },
     "launcher": {
-      "version": "1.2.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.2.0/launcher-1.2.0-windows-x64.zip",
-      "sha256": "c37427a3810fee5236d4f9aeaeb37391f6ba31f97b467f31720afdb0e1521185",
-      "size": 48518307,
+      "version": "1.3.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.3.0/launcher-1.3.0-windows-x64.zip",
+      "sha256": "8b65d3d2caa81d48d62a18ab8b351acfd745b012c7c7f2d1066ac41d13f0eee3",
+      "size": 48521624,
       "entrypoint": "RKS-Launcher.exe",
       "name": "RKS Launcher",
-      "notes": "Inclui a Calculadora de pilares na suíte, com instalação e atualizações pelo launcher. Mantém os aplicativos e dados existentes, as notificações e a verificação automática. Catálogo compatível com versões anteriores para permitir a atualização do próprio launcher.",
-      "published_at": "2026-11-03T20:33:14Z"
+      "notes": "Interface com estrutura próxima do ArtCraft Launcher: cabeçalho compacto, cartões alinhados, faixas de versão e novidades e ações contextuais. Cada aplicativo tem uma cor própria nos ícones, títulos e botões, nos modos Grade e Tabela. Novo Modo escuro em Configurações; a preferência é salva e aplicada ao reabrir. Mantém a assinatura completa e as fontes RKS, as instalações, os dados e as atualizações automáticas.",
+      "published_at": "2026-11-04T13:45:09Z"
     },
     "rks-pilares": {
       "version": "1.0.2",

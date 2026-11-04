@@ -10,6 +10,8 @@ Suíte da RKS Engenharia de Estruturas para Windows 64 bits.
 
 Para receber a Calculadora de pilares em uma instalação existente, atualize o próprio launcher pelo botão **Atualizar e reiniciar**.
 
+O launcher 1.3.0 traz cores próprias para os aplicativos e modo escuro em **Configurações → Aparência**. Salve a escolha para aplicá-la e mantê-la nas próximas aberturas.
+
 Não é necessário ter conta no GitHub, instalar Python, Node.js ou informar senha de administrador. A instalação ocorre somente para o seu usuário, sujeita às políticas do computador.
 
 Aplicativos: RKS Modelador Plano, RKS Vigas e Lajes, RKS Vigas Metálicas, Gerenciador de Arquivos RKS, RKS | Plotagem de pastas, Calculadora de pilares. O RKS | Plotagem de pastas depende de AutoCAD ou ZWCAD instalado e licenciado; a referência CAD do modelador depende de ZWCAD. A Calculadora de pilares é independente de Java e do programa original usado como referência; seus limites estão documentados no aplicativo.
