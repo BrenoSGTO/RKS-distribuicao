@@ -34,14 +34,14 @@
       "published_at": "2026-11-04T17:32:40Z"
     },
     "plotador-de-pastas": {
-      "version": "1.0.3",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/plotador-de-pastas-v1.0.3/plotador-de-pastas-1.0.3-windows-x64.zip",
-      "sha256": "e668496203abd9292c904bc33b76dc2cc77ac90c45f4104c3b5919ceca4f5d57",
-      "size": 20522501,
+      "version": "1.0.4",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/plotador-de-pastas-v1.0.4/plotador-de-pastas-1.0.4-windows-x64.zip",
+      "sha256": "8c8e292343eb9a8503e68dadff924aa7baf47b0b647adecac5a12a73f516e40d",
+      "size": 20530371,
       "entrypoint": "Gerador_PDF_CAD_RKS.exe",
       "name": "RKS | Plotagem de pastas",
-      "notes": "# RKS | Plotagem de pastas 1.0.3\n\nAtualiza a distribuição para o commit `ee1a910`.\n\n- Aplica o ícone RKS fornecido ao executável e à janela do aplicativo.\n- Inclui modo escuro com preferência persistida e ajustes de contraste na interface.\n- Mantém os projetos e as configurações existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e as imagens ICO incorporadas, sem repetir os testes completos do desenvolvimento.\n",
-      "published_at": "2026-11-04T17:35:18Z"
+      "notes": "# RKS | Plotagem de pastas 1.0.4\n\nAtualiza a distribuição para o commit `f6ee96d` (versão interna 2026.11.05.1).\n\n- Identifica versão, sessão e CAD em cada erro e aviso.\n- Detalha falhas por etapa, com códigos, arquivos envolvidos e informações originais de erros Windows/COM quando disponíveis.\n- Mantém um cabeçalho permanente no relatório TXT, mesmo após a rotação do histórico, e registra falhas inesperadas da interface.\n- Mantém as regras de plotagem, o ícone RKS, os projetos e as configurações existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, integridade, instalação temporária e ícone Windows incorporado, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-05T21:52:26Z"
     },
     "gerenciador-de-arquivos-rks": {
       "version": "1.0.6",
