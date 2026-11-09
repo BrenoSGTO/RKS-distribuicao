@@ -54,14 +54,14 @@
       "published_at": "2026-11-04T17:30:36Z"
     },
     "launcher": {
-      "version": "1.4.2",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.4.2/launcher-1.4.2-windows-x64.zip",
-      "sha256": "d02cdaa1afc108e269dedd464f195ba241b1d21c08339d91373223806b0c0817",
-      "size": 48795707,
+      "version": "1.5.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.5.0/launcher-1.5.0-windows-x64.zip",
+      "sha256": "af8abe56583aaa08ec96aafa9050114a0809e6be07e5c6c121ca216b7b31d116",
+      "size": 47843825,
       "entrypoint": "RKS-Launcher.exe",
       "name": "RKS Launcher",
-      "notes": "Aplica os novos ativos da identidade visual RKS: assinatura completa transparente no tema claro e versão branca pronta no tema escuro, no cabeçalho e nos diálogos. Novo símbolo transparente no ícone Windows e variantes de bandeja com contraste conforme o tema do Windows. O instalador usa a assinatura transparente. Mantém as cores e os ícones próprios dos sete aplicativos, os dados e as preferências.",
-      "published_at": "2026-11-04T19:30:35Z"
+      "notes": "Inclui Corte de Telas RKS, com paginação e planos de corte de telas soldadas e exportação DWG/DXF. Preserva instalações e dados existentes e mantém catálogos compatíveis para atualização dos launchers anteriores.",
+      "published_at": "2026-11-09T19:28:35Z"
     }
   }
 }
