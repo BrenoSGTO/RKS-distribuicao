@@ -84,14 +84,14 @@
       "published_at": "2026-11-04T17:33:29Z"
     },
     "rks-distribuidor-telas": {
-      "version": "1.0.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.0.0/rks-distribuidor-telas-1.0.0-windows-x64.zip",
-      "sha256": "486ba8b998f697f45d1ca0ff2691fc02fd4d9b5278ee433f4d51abc51c1b739f",
-      "size": 42394891,
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.0.1/rks-distribuidor-telas-1.0.1-windows-x64.zip",
+      "sha256": "0be033bc886c9aa374550a3f6a052867f98a8139f40416ee1f63be8943017514",
+      "size": 42399225,
       "entrypoint": "CorteDeTelas.exe",
       "name": "Corte de Telas RKS",
-      "notes": "Paginação e planos de corte de telas soldadas com exportação DWG/DXF. Para visualizar os desenhos: ZWCAD 2020+ ou AutoCAD.",
-      "published_at": "2026-11-09T19:27:35Z"
+      "notes": "Melhorias dos temas claro e escuro e dos estados de interação dos controles na paleta RKS. Preserva o motor de cálculo e a exportação DWG/DXF.",
+      "published_at": "2026-11-10T14:01:03Z"
     }
   }
 }
