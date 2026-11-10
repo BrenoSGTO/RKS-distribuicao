@@ -64,14 +64,14 @@
       "published_at": "2026-11-09T19:28:35Z"
     },
     "rks-pilares": {
-      "version": "1.0.5",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.5/rks-pilares-1.0.5-windows-x64.zip",
-      "sha256": "c9f0bcefa510612d1399043c0dbba6bef97d8945c3febf8a76b16e51f8a19ebb",
-      "size": 158752401,
+      "version": "1.0.6",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.6/rks-pilares-1.0.6-windows-x64.zip",
+      "sha256": "f03be85dad9a31eed678b994208fc9ab7b891f1cb879c322f30be03ecefb277e",
+      "size": 158764920,
       "entrypoint": "Calculadora de pilares.exe",
       "name": "Calculadora de pilares",
-      "notes": "# Calculadora de pilares 1.0.5\n\nAtualiza o aplicativo para a versão interna 0.3.3, commit `bfa6a51`.\n\n- Permite omitir o detalhamento de estribos e agregado, mantendo a indicação das verificações não realizadas.\n- Adiciona distância explícita da face do concreto ao eixo da barra.\n- Atualiza a interface, os desenhos e a integração MCP para os novos dados.\n\nFeche a Calculadora de pilares e use **Verificar atualizações → Atualizar** no launcher. Os projetos, o perfil e os ícones RKS são preservados.\n\nA publicação confere a geração, a integridade, a instalação e o ícone incorporado ao executável, sem repetir os testes completos do desenvolvimento. As limitações e pendências de cálculo permanecem indicadas no aplicativo.\n",
-      "published_at": "2026-11-04T17:52:57Z"
+      "notes": "﻿Adiciona compatibilidade de entrada PCalc e modos legados de cálculo de pilares. Preserva os projetos e as configurações existentes.\n",
+      "published_at": "2026-11-10T15:08:34Z"
     },
     "rks-vigas-alvenaria": {
       "version": "1.0.1",
