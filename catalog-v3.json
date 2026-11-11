@@ -14,14 +14,14 @@
       "published_at": "2026-11-04T17:32:05Z"
     },
     "rks-vigas-lajes": {
-      "version": "1.0.3",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-lajes-v1.0.3/rks-vigas-lajes-1.0.3-windows-x64.zip",
-      "sha256": "585fc246e2c994e159ebccf6f10b08667badaa00352ea0384a7193e0ecd15cc5",
-      "size": 21330710,
+      "version": "1.0.4",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-lajes-v1.0.4/rks-vigas-lajes-1.0.4-windows-x64.zip",
+      "sha256": "4ad5ffb555d91925e041ff7fb5bb7d0aba76de63220ec0bed994e0954ceb43fe",
+      "size": 21330788,
       "entrypoint": "RKS-Vigas-Lajes.exe",
       "name": "RKS Vigas e Lajes",
-      "notes": "RKS Vigas e Lajes 1.0.3\n\nAo clicar nos campos de entrada, seleciona todo o valor para facilitar a substituição ao digitar. Aplicado aos campos de dimensionamento e cisalhamento.\n\nCódigo de origem: 961d0b556dbeb65c86d6d58244e9fa1e3dd2309f.\n",
-      "published_at": "2026-11-11T13:40:48Z"
+      "notes": "RKS Vigas e Lajes 1.0.4\n\nExibe MRk equivalente (MRd / 1,4) junto ao MRd nos resultados e memoriais de vigas e lajes, com as unidades correspondentes.\n\nCódigo de origem: 822cfba0e41b5245dc82a0288a26cd6063bd9391.\n",
+      "published_at": "2026-11-11T13:54:42Z"
     },
     "rks-vigas-metalicas": {
       "version": "1.0.2",
