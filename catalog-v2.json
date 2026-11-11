@@ -14,14 +14,14 @@
       "published_at": "2026-11-04T17:32:05Z"
     },
     "rks-vigas-lajes": {
-      "version": "1.0.2",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-lajes-v1.0.2/rks-vigas-lajes-1.0.2-windows-x64.zip",
-      "sha256": "a8abbb3215981f9739e36d409ce63c11a12948f49bbadf4391d488a265c93bc8",
-      "size": 21330219,
+      "version": "1.0.3",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-lajes-v1.0.3/rks-vigas-lajes-1.0.3-windows-x64.zip",
+      "sha256": "585fc246e2c994e159ebccf6f10b08667badaa00352ea0384a7193e0ecd15cc5",
+      "size": 21330710,
       "entrypoint": "RKS-Vigas-Lajes.exe",
       "name": "RKS Vigas e Lajes",
-      "notes": "﻿# RKS Vigas e Lajes 1.0.2\n\n- Permite informar manualmente telas soldadas, incluindo referências fora do catálogo.\n- Com tela preenchida e Mk vazio, consulta a resistência MRd somente da tela, sem barras complementares, e apresenta Mk equivalente no memorial.\n- Informa a hipótese de malha equivalente para telas fora do catálogo e as verificações de armadura mínima e ductilidade.\n- Preserva a abertura dos projetos anteriores.\n\nCódigo de origem: dfe7df9.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no RKS Launcher.\n",
-      "published_at": "2026-11-10T18:43:00Z"
+      "notes": "RKS Vigas e Lajes 1.0.3\n\nAo clicar nos campos de entrada, seleciona todo o valor para facilitar a substituição ao digitar. Aplicado aos campos de dimensionamento e cisalhamento.\n\nCódigo de origem: 961d0b556dbeb65c86d6d58244e9fa1e3dd2309f.\n",
+      "published_at": "2026-11-11T13:40:48Z"
     },
     "rks-vigas-metalicas": {
       "version": "1.0.2",
