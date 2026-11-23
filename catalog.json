@@ -54,14 +54,14 @@
       "published_at": "2026-11-04T17:30:36Z"
     },
     "launcher": {
-      "version": "1.6.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.6.0/launcher-1.6.0-windows-x64.zip",
-      "sha256": "357dba3a81c93b791cf68e080a8116fcdb987886e33908d227c86b8a1eac190e",
-      "size": 47953087,
+      "version": "1.7.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.7.0/launcher-1.7.0-windows-x64.zip",
+      "sha256": "3faa8ab36ffd00d98726dab5ce4507f18d126c0d0a00333a9fd40ac2cc056ccb",
+      "size": 47975952,
       "entrypoint": "RKS-Launcher.exe",
       "name": "RKS Launcher",
-      "notes": "Inclui RKS | Conversor de documentos com Markdown e OCR local. Preserva dados, aplicativos e compatibilidade com launchers anteriores.",
-      "published_at": "2026-11-17T16:39:57Z"
+      "notes": "Inclui a Calculadora de As para calcular área de aço por metro e espaçamento por bitola. Preserva instalações e dados, e mantém a atualização disponível para versões anteriores do launcher.",
+      "published_at": "2026-11-23T12:57:47Z"
     }
   }
 }

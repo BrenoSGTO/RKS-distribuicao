@@ -8,7 +8,9 @@ Suíte da RKS Engenharia de Estruturas para Windows 64 bits.
 2. No launcher, clique em **Instalar tudo** ou escolha um aplicativo.
 3. Depois, use **Abrir** e **Atualizar** no próprio launcher.
 
-Para receber o RKS | Conversor de documentos, atualize o launcher para 1.6.0. O conversor inclui Python e OCR local, sem chave de API.
+Para instalar a Calculadora de As, atualize o launcher para a versão 1.7.0 pelo botão **Atualizar e reiniciar**.
+
+Para receber o RKS | Conversor de documentos, atualize o launcher para 1.6.0 ou superior. O conversor inclui Python e OCR local, sem chave de API.
 
 Para receber o Corte de Telas RKS em uma instalação existente, atualize o próprio launcher para a versão 1.5.0 pelo botão **Atualizar e reiniciar**. Para visualizar os desenhos gerados, use ZWCAD 2020+ ou AutoCAD.
 
@@ -16,7 +18,7 @@ O launcher 1.3.0 traz cores próprias para os aplicativos e modo escuro em **Con
 
 Não é necessário ter conta no GitHub, instalar Python, Node.js ou informar senha de administrador. A instalação ocorre somente para o seu usuário, sujeita às políticas do computador.
 
-Aplicativos: RKS Modelador Plano, RKS Vigas e Lajes, RKS Vigas Metálicas, Gerenciador de Arquivos RKS, RKS | Plotagem de pastas, Calculadora de pilares, RKS Vigas de alvenaria, Corte de Telas RKS, RKS | Conversor de documentos. O RKS | Plotagem de pastas depende de AutoCAD ou ZWCAD instalado e licenciado; a referência CAD do modelador depende de ZWCAD. A Calculadora de pilares é independente de Java e do programa original usado como referência; seus limites estão documentados no aplicativo.
+Aplicativos: RKS Modelador Plano, RKS Vigas e Lajes, RKS Vigas Metálicas, Gerenciador de Arquivos RKS, RKS | Plotagem de pastas, Calculadora de pilares, RKS Vigas de alvenaria, Corte de Telas RKS, RKS | Conversor de documentos, Calculadora de As. O RKS | Plotagem de pastas depende de AutoCAD ou ZWCAD instalado e licenciado; a referência CAD do modelador depende de ZWCAD. A Calculadora de pilares é independente de Java e do programa original usado como referência; seus limites estão documentados no aplicativo.
 
 O Windows pode exibir avisos de reputação para este instalador ainda sem assinatura digital comercial. Em equipamentos gerenciados, solicite à TI a liberação dos arquivos.
 

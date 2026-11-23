@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "platform": "windows-x64",
+  "minimum_launcher": "1.7.0",
+  "packages": {
+    "ftool-melhorado": {
+      "version": "1.0.4",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/ftool-melhorado-v1.0.4/ftool-melhorado-1.0.4-windows-x64.zip",
+      "sha256": "5a4c6da3ece5e24dd40084cc697a6fa323301045ad3f19e820c8bcdab0f2e540",
+      "size": 14670626,
+      "entrypoint": "RKS Modelador Plano.exe",
+      "name": "RKS Modelador Plano",
+      "notes": "# RKS Modelador Plano 1.0.4\n\nAtualiza a distribuição para o commit `3e1a63c`.\n\n- Aplica os ícones do kit RKS ao executável e à janela do aplicativo.\n- Inclui os pictogramas e recursos de interface implementados no projeto.\n- Preserva os projetos, os perfis e os identificadores existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e os bytes de cada imagem ICO incorporada ao executável, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-04T17:32:05Z"
+    },
+    "rks-vigas-lajes": {
+      "version": "1.0.5",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-lajes-v1.0.5/rks-vigas-lajes-1.0.5-windows-x64.zip",
+      "sha256": "abbd91edaa4f160675f8492d3031d47cef872d4532bb374cd3cceb79a1a6e6ce",
+      "size": 21333841,
+      "entrypoint": "RKS-Vigas-Lajes.exe",
+      "name": "RKS Vigas e Lajes",
+      "notes": "﻿RKS Vigas e Lajes 1.0.5\n\nInclui a aba Área → espaçamento, que converte a área de aço em cm²/m para espaçamentos por bitola, com arredondamento para baixo em 0,1 cm. A consulta é geométrica e não verifica limites de detalhamento.\n\nCódigo de origem: 635823672a19ad361262f5421a7ec85e20830bf1.\n",
+      "published_at": "2026-11-13T20:37:53Z"
+    },
+    "rks-vigas-metalicas": {
+      "version": "1.0.2",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-metalicas-v1.0.2/rks-vigas-metalicas-1.0.2-windows-x64.zip",
+      "sha256": "6495c0ab3e3f3fe93bba3d4c80a4d1f3064b7f3e94d5ca32597b8f8e5beafb6f",
+      "size": 20290601,
+      "entrypoint": "RKS-Vigas-Metalicas.exe",
+      "name": "RKS Vigas Metálicas",
+      "notes": "# RKS Vigas Metálicas 1.0.2\n\nAtualiza a distribuição para o commit `d063c82`.\n\n- Aplica os ícones do kit RKS ao executável e à janela do aplicativo.\n- Inclui os pictogramas e recursos de interface implementados no projeto.\n- Preserva os projetos, os perfis e os identificadores existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e os bytes de cada imagem ICO incorporada ao executável, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-04T17:32:40Z"
+    },
+    "plotador-de-pastas": {
+      "version": "1.0.5",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/plotador-de-pastas-v1.0.5/plotador-de-pastas-1.0.5-windows-x64.zip",
+      "sha256": "a2caa1a947b1def5d52a6c8804bb18920281a4ea4f3e4e19567987050c4e8c27",
+      "size": 19490412,
+      "entrypoint": "Gerador_PDF_CAD_RKS.exe",
+      "name": "RKS | Plotagem de pastas",
+      "notes": "# RKS | Plotagem de pastas 1.0.5\n\nDistribui a versão interna 2026.11.18.1, do commit `b200280`.\n\n- Corrige a pasta de instalação dos estilos CTB no AutoCAD e atualiza a lista de dispositivos antes de selecionar o driver PC3.\n- Verifica se o CTB selecionado está disponível no perfil ativo do AutoCAD ou ZWCAD antes de iniciar a plotagem. Se o estilo estiver ausente, o aplicativo orienta como instalá-lo.\n- Preserva as configurações de diálogo do CAD ao abrir desenhos em lote. A recuperação da sessão também tenta reativar os diálogos de arquivos e comandos.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no RKS Launcher.\n",
+      "published_at": "2026-11-18T12:23:52Z"
+    },
+    "gerenciador-de-arquivos-rks": {
+      "version": "1.0.6",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.6/gerenciador-de-arquivos-rks-1.0.6-windows-x64.zip",
+      "sha256": "d0a91d4767fd917f648dc84f14d87c30b4bdd9a505ce46a6779c96a46e28c5fd",
+      "size": 158855378,
+      "entrypoint": "Gerenciador de Arquivos RKS.exe",
+      "name": "Gerenciador de Arquivos RKS",
+      "notes": "# Gerenciador de Arquivos RKS 1.0.6\n\nAtualiza a distribuição para o commit `54623d4`.\n\n- Aplica os ícones do kit RKS ao executável e à janela do aplicativo.\n- Inclui os pictogramas e recursos de interface implementados no projeto.\n- Preserva os projetos, os perfis e os identificadores existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e os bytes de cada imagem ICO incorporada ao executável, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-04T17:30:36Z"
+    },
+    "launcher": {
+      "version": "1.7.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.7.0/launcher-1.7.0-windows-x64.zip",
+      "sha256": "3faa8ab36ffd00d98726dab5ce4507f18d126c0d0a00333a9fd40ac2cc056ccb",
+      "size": 47975952,
+      "entrypoint": "RKS-Launcher.exe",
+      "name": "RKS Launcher",
+      "notes": "Inclui a Calculadora de As para calcular área de aço por metro e espaçamento por bitola. Preserva instalações e dados, e mantém a atualização disponível para versões anteriores do launcher.",
+      "published_at": "2026-11-23T12:57:47Z"
+    },
+    "rks-pilares": {
+      "version": "1.0.6",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-pilares-v1.0.6/rks-pilares-1.0.6-windows-x64.zip",
+      "sha256": "f03be85dad9a31eed678b994208fc9ab7b891f1cb879c322f30be03ecefb277e",
+      "size": 158764920,
+      "entrypoint": "Calculadora de pilares.exe",
+      "name": "Calculadora de pilares",
+      "notes": "﻿Adiciona compatibilidade de entrada PCalc e modos legados de cálculo de pilares. Preserva os projetos e as configurações existentes.\n",
+      "published_at": "2026-11-10T15:08:34Z"
+    },
+    "rks-vigas-alvenaria": {
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-vigas-alvenaria-v1.0.1/rks-vigas-alvenaria-1.0.1-windows-x64.zip",
+      "sha256": "3b68b8e5dc2d06438fde400e03cf7492e6e28de48564a7002e5f0e64850d8a4c",
+      "size": 28286416,
+      "entrypoint": "RKS-Vigas-Alvenaria.exe",
+      "name": "RKS Vigas de alvenaria",
+      "notes": "# RKS Vigas de alvenaria 1.0.1\n\nAtualiza a distribuição para o commit `9b0a906`.\n\n- Aplica os ícones do kit RKS ao executável e à janela do aplicativo.\n- Inclui os pictogramas e recursos de interface implementados no projeto.\n- Preserva os projetos, os perfis e os identificadores existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e os bytes de cada imagem ICO incorporada ao executável, sem repetir os testes completos do desenvolvimento.\n",
+      "published_at": "2026-11-04T17:33:29Z"
+    },
+    "rks-distribuidor-telas": {
+      "version": "1.1.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.1.0/rks-distribuidor-telas-1.1.0-windows-x64.zip",
+      "sha256": "70fa2572b58bf0cb91b30a2cdbff1fe36fd374bb1428bc4038790d111f763568",
+      "size": 46541839,
+      "entrypoint": "CorteDeTelas.exe",
+      "name": "Corte de Telas RKS",
+      "notes": "Interface CustomTkinter com identidade RKS e novos ícones. Importação via ZWCAD com seleção de layers e fallback automático para DwgBridge quando o CAD não está em execução. Preserva o motor de cálculo e a exportação DWG/DXF.",
+      "published_at": "2026-11-11T11:37:30Z"
+    },
+    "markitdown-rust-gui": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/markitdown-rust-gui-v1.0.0/markitdown-rust-gui-1.0.0-windows-x64.zip",
+      "sha256": "d56119b4296997dfbe602ccc7f27ca4b484d7e30c6a2ebabe1ce09e87cebc5b9",
+      "size": 205404209,
+      "entrypoint": "markitdown-rust-gui.exe",
+      "name": "RKS | Conversor de documentos",
+      "notes": "RKS | Conversor de documentos 1.0.0. Markdown, PDFium e OCR local com motor e modelos incluidos. Dispensa Python e chave de API.",
+      "published_at": "2026-11-17T16:38:32Z"
+    },
+    "calculadora-de-as": {
+      "version": "1.0.0",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.7.0/calculadora-de-as-1.0.0-windows-x64.zip",
+      "sha256": "589f1052892563693cc2d991fd8627b4448cbeb8a8741ef53d3bf1a0f38f57fe",
+      "size": 466789,
+      "entrypoint": "RKS.CalculadoraAs.exe",
+      "name": "Calculadora de As",
+      "notes": "Calcula o espaçamento máximo por bitola a partir da área de aço desejada e a área por metro a partir da bitola e do espaçamento.",
+      "published_at": "2026-11-23T12:57:47Z"
+    }
+  }
+}
