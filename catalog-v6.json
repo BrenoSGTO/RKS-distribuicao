@@ -104,14 +104,14 @@
       "published_at": "2026-11-17T16:38:32Z"
     },
     "calculadora-de-as": {
-      "version": "1.0.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/suite-v1.7.0/calculadora-de-as-1.0.0-windows-x64.zip",
-      "sha256": "589f1052892563693cc2d991fd8627b4448cbeb8a8741ef53d3bf1a0f38f57fe",
-      "size": 466789,
+      "version": "1.0.1",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/calculadora-de-as-v1.0.1/calculadora-de-as-1.0.1-windows-x64.zip",
+      "sha256": "094ef018bddd05d2f5d2a3a7e4a2a2d4cbfdc77d2ba146c7961667f0866df830",
+      "size": 467125,
       "entrypoint": "RKS.CalculadoraAs.exe",
       "name": "Calculadora de As",
-      "notes": "Calcula o espaçamento máximo por bitola a partir da área de aço desejada e a área por metro a partir da bitola e do espaçamento.",
-      "published_at": "2026-11-23T12:57:47Z"
+      "notes": "Adiciona o cálculo da área de aço total (As) em cm² a partir da bitola e da quantidade de barras.\n\nCódigo de origem: c820a3f97da49caff34a4085aaec9cc160461c0b.\n",
+      "published_at": "2026-11-23T14:25:30Z"
     }
   }
 }
