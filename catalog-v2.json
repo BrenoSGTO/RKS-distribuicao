@@ -44,14 +44,14 @@
       "published_at": "2026-11-18T12:23:52Z"
     },
     "gerenciador-de-arquivos-rks": {
-      "version": "1.0.6",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.6/gerenciador-de-arquivos-rks-1.0.6-windows-x64.zip",
-      "sha256": "d0a91d4767fd917f648dc84f14d87c30b4bdd9a505ce46a6779c96a46e28c5fd",
-      "size": 158855378,
+      "version": "1.0.7",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/gerenciador-de-arquivos-rks-v1.0.7/gerenciador-de-arquivos-rks-1.0.7-windows-x64.zip",
+      "sha256": "6bd1237fef75c32dd33a69913bab31d61461515e4a719c46130b665b89941b6f",
+      "size": 158855411,
       "entrypoint": "Gerenciador de Arquivos RKS.exe",
       "name": "Gerenciador de Arquivos RKS",
-      "notes": "# Gerenciador de Arquivos RKS 1.0.6\n\nAtualiza a distribuição para o commit `54623d4`.\n\n- Aplica os ícones do kit RKS ao executável e à janela do aplicativo.\n- Inclui os pictogramas e recursos de interface implementados no projeto.\n- Preserva os projetos, os perfis e os identificadores existentes.\n\nFeche o aplicativo e use **Verificar atualizações → Atualizar** no launcher.\n\nA publicação confere compilação, instalação, integridade e os bytes de cada imagem ICO incorporada ao executável, sem repetir os testes completos do desenvolvimento.\n",
-      "published_at": "2026-11-04T17:30:36Z"
+      "notes": "# Gerenciador de Arquivos RKS 1.0.7\n\nO botão **Oficina de hoje** abre a pasta em uma nova aba em segundo plano e mantém a aba atual ativa. Se houver arquivos selecionados, o gerenciador copia a seleção para a oficina antes de abrir a nova aba.\n\nInclui o commit `a183087` do Gerenciador de Arquivos RKS.\n",
+      "published_at": "2026-11-24T14:32:55Z"
     },
     "launcher": {
       "version": "1.7.0",
