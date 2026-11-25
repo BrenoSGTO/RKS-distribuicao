@@ -84,14 +84,14 @@
       "published_at": "2026-11-04T17:33:29Z"
     },
     "rks-distribuidor-telas": {
-      "version": "1.1.0",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.1.0/rks-distribuidor-telas-1.1.0-windows-x64.zip",
-      "sha256": "70fa2572b58bf0cb91b30a2cdbff1fe36fd374bb1428bc4038790d111f763568",
-      "size": 46541839,
+      "version": "1.2.10",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.2.10/rks-distribuidor-telas-1.2.10-windows-x64.zip",
+      "sha256": "f17788ef5c1822b6c9e474cfac5c55d61bad1356c3c92ac7c89adad8e5acd38f",
+      "size": 46872988,
       "entrypoint": "CorteDeTelas.exe",
       "name": "Corte de Telas RKS",
-      "notes": "Interface CustomTkinter com identidade RKS e novos ícones. Importação via ZWCAD com seleção de layers e fallback automático para DwgBridge quando o CAD não está em execução. Preserva o motor de cálculo e a exportação DWG/DXF.",
-      "published_at": "2026-11-11T11:37:30Z"
+      "notes": "Salve e reabra projetos .ctelas, edite as telas na planta e use o auditor antes de exportar. A versão inclui cortes modulares, otimização para vários pavimentos, exportação Excel e indicadores de consumo de aço aplicado e comprado por área e volume. A tabela de indicadores tem rolagem horizontal e a exportação CAD usa a folha A0 atualizada.",
+      "published_at": "2026-11-25T17:37:11Z"
     }
   }
 }
