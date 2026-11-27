@@ -84,14 +84,14 @@
       "published_at": "2026-11-04T17:33:29Z"
     },
     "rks-distribuidor-telas": {
-      "version": "1.2.10",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.2.10/rks-distribuidor-telas-1.2.10-windows-x64.zip",
-      "sha256": "f17788ef5c1822b6c9e474cfac5c55d61bad1356c3c92ac7c89adad8e5acd38f",
-      "size": 46872988,
+      "version": "1.2.12",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.2.12/rks-distribuidor-telas-1.2.12-windows-x64.zip",
+      "sha256": "c62ccdcfc8ce6fe37aa739546e78a569581b68a2f6c6e1c4012aa821bbf417c5",
+      "size": 47314775,
       "entrypoint": "CorteDeTelas.exe",
       "name": "Corte de Telas RKS",
-      "notes": "Salve e reabra projetos .ctelas, edite as telas na planta e use o auditor antes de exportar. A versão inclui cortes modulares, otimização para vários pavimentos, exportação Excel e indicadores de consumo de aço aplicado e comprado por área e volume. A tabela de indicadores tem rolagem horizontal e a exportação CAD usa a folha A0 atualizada.",
-      "published_at": "2026-11-25T17:37:11Z"
+      "notes": "- As bordas das viewports ficam ocultas na tela e na impressão, com o conteúdo visível.\n- A exportação DWG usa estilos de plotagem por cor (CTB), corrigindo o aviso de `rks_concreto.ctb`. As pranchas usam `DWG to PDF.pc5`, mídia ISO full bleed ou personalizada e área de impressão de toda a folha em escala 1:1.\n- O selo usa campos nativos para folha, revisão e nome do arquivo, atualizados quando o DWG é renomeado.\n- Corrige a cópia com Ctrl+C no ZWCAD e ajusta a Relação de Telas e o Resumo de Compra do Excel.",
+      "published_at": "2026-11-27T14:48:56Z"
     },
     "markitdown-rust-gui": {
       "version": "1.0.0",
