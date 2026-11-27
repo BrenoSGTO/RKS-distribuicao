@@ -84,14 +84,14 @@
       "published_at": "2026-11-04T17:33:29Z"
     },
     "rks-distribuidor-telas": {
-      "version": "1.2.12",
-      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.2.12/rks-distribuidor-telas-1.2.12-windows-x64.zip",
-      "sha256": "c62ccdcfc8ce6fe37aa739546e78a569581b68a2f6c6e1c4012aa821bbf417c5",
-      "size": 47314775,
+      "version": "1.2.13",
+      "url": "https://github.com/BrenoSGTO/RKS-distribuicao/releases/download/rks-distribuidor-telas-v1.2.13/rks-distribuidor-telas-1.2.13-windows-x64.zip",
+      "sha256": "df6a2c3688bef3c0101bcb42cc1fd511167c956976e912024e21538cea01790b",
+      "size": 47322869,
       "entrypoint": "CorteDeTelas.exe",
       "name": "Corte de Telas RKS",
-      "notes": "- As bordas das viewports ficam ocultas na tela e na impressão, com o conteúdo visível.\n- A exportação DWG usa estilos de plotagem por cor (CTB), corrigindo o aviso de `rks_concreto.ctb`. As pranchas usam `DWG to PDF.pc5`, mídia ISO full bleed ou personalizada e área de impressão de toda a folha em escala 1:1.\n- O selo usa campos nativos para folha, revisão e nome do arquivo, atualizados quando o DWG é renomeado.\n- Corrige a cópia com Ctrl+C no ZWCAD e ajusta a Relação de Telas e o Resumo de Compra do Excel.",
-      "published_at": "2026-11-27T14:48:56Z"
+      "notes": "- Nova aba **Indicadores** com aproveitamento do corte, área efetiva da laje, volume de concreto e consumo de aço aplicado e comprado em kg/m³. Inclui detalhamento e totais para vários pavimentos.\n- Aba **Quantitativos** reorganizada, botões com indicação de foco por teclado e ajustes nos temas claro e escuro da RKS.\n- Inclui os ajustes de exportação DWG da 1.2.12, com bordas das viewports ocultas, plotagem CTB em escala 1:1, campos dinâmicos no selo e correção de Ctrl+C no ZWCAD.",
+      "published_at": "2026-11-27T16:51:40Z"
     }
   }
 }
